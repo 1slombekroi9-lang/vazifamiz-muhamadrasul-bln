@@ -1,0 +1,79 @@
+.do{
+    display: flex;
+}
+.det{
+    box-shadow: rgba(0, 0, 0, 0.16) 0px 1px 4px;
+    background: radial-gradient(128.88% 128.88% at 103.9% -10.39%, #E84D70 0%, #A337F6 53.09%, #28A7ED 100%) /* warning: gradient uses a rotation that is not supported by CSS and may not behave as expected */;
+    width: 444px;
+    height: 868px;
+    margin-top: 16px;
+    margin-left: 16px;
+    margin-bottom: 16px;
+}
+.pet{
+    width: 364;
+    height: 144;
+    padding-top: 245.5px;
+    margin-left: 40px;
+    margin-right: 40px;
+    color: #fff;
+}
+.img{
+    width: 364;
+    height: 273;
+    margin-top: 40px;
+    margin-left: 40px;
+    margin-left: 40px;
+    margin-bottom: 165.5px;
+}
+.div{
+    width: 526px;
+    height: 401px;
+    margin-top: 250px;
+    margin-left: 227px;
+    
+}
+.h2{
+    width: 545px;
+    height: 45px;
+    color: #3A4374;
+}
+.pp{
+    margin-top: 4px;
+    color: #647196;
+}
+.put{
+    width: 255.5px;
+    height: 48px;
+    display: flex;
+}
+.take{
+    width: 255.5px;
+    height: 48px;
+    margin-left: 16px;
+}
+.clever{
+    width: 526px;
+    height: 48px;
+    margin-top: 16px;
+}
+.inp{
+    width: 526px;
+    height: 48px;
+    margin-top: 16px;
+}
+.inp2{
+    width: 526px;
+    height: 48px;
+    margin-top: 16px;
+}
+.btn{
+    width: 526px;
+    height: 44px;
+    background-color: blue;
+    color: #fff; 
+    margin-top: 16px; 
+}
+.dok{
+    display: flex;
+}
